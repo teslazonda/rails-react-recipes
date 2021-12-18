@@ -7,7 +7,10 @@ export default () => (
       <div className="container secondary-color">
         <h1 className="display-4">Recipes by teslazonda</h1>
         <p className="lead">
-          A curated list of recipes for the best homemade meal and delicacies.
+          A list of recipes for the best homemade meals and delicacies.
+        </p>
+        <p>
+          Brought to you by React and Ruby on Rails
         </p>
         <hr className="my-4" />
         <Link
